@@ -404,7 +404,7 @@ const PDFDocument = ({ booking }: { booking: Booking }) => {
             </View>
             <View style={{display:"flex",flexDirection:"row"}}>
                 <Text style={{...styles.text}}>Security Deposit: </Text>
-                <Text style={{...styles.text,fontStyle:"italic"}}>No Security Deposit</Text>
+                <Text style={{...styles.text,fontStyle:"italic"}}>{booking.securityDeposit ? booking.securityDeposit : "No Security Deposit"}</Text>
             </View>
             {booking.fastrack && booking.endfastrack &&
             <View style={styles.printRow}>
