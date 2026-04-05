@@ -35,13 +35,16 @@ export default function TermsAndConditions() {
                   1. Rental Term, Rate & Payment Mode
                 </h2>
                 <p className="text-sm sm:text-md">
-                  The rental period shall commence on date and time mentioned
-                  above. The Vehicle is booked for these dates and times,
-                  Extension is subject to availability.
+                  The rental period begins on the date and time specified in the booking.
+                  The Vehicle is reserved for these precise dates and 
+                  times, and any extension is contingent upon availability.
+                  Rental charges will be calculated on an hourly or daily basis,
+                  according to the agreed-upon rate.A daily limit of 300 KM applies unless "unlimited KM" is explicitly stated..
                 </p>
                 <p className="text-sm sm:text-md">
-                  The rental will be charged on an hourly/daily basis at the
-                  rate that have been decided.
+                  The rental policy states that no refunds will be given for vehicles returned early (before the scheduled end time).
+                  If a vehicle is returned late, the customer will be charged according to the applicable hourly and daily extension rates. To rent a vehicle, customers must present the original hard copies of their Aadhaar card and a valid driving license to Jain Car Rental. Jain Car Rental will retain one original ID card for the duration of the booking.
+                  We assure the renter that their ID card will be kept safe and will not be used for any other activities.
                 </p>
               </section>
 
@@ -54,10 +57,11 @@ export default function TermsAndConditions() {
                   of the Lessor. The Lessee has no ownership rights.
                 </p>
                 <p className="text-sm sm:text-md">
-                  The Lessee agrees to use the Vehicle solely for personal
-                  purposes. The Lessee shall not use the Vehicle for any
-                  business-related activities, including but not limited to
-                  ride-sharing, delivery services, or any commercial uses.
+                  The vehicle rental agreement grants the Lessee (renter) a temporary right to use the vehicle,
+                  which remains the exclusive property of the Lessor (owner).
+                  Use is strictly limited to personal, non-commercial purposes.
+                  Prohibited uses include all commercial activities, such as ride-sharing (Uber, Lyft), delivery services, sub-leasing, and for-hire transportation (taxi).
+                  Violation of these terms is a material default, leading to potential lease termination, vehicle repossession, and liability for damages.
                 </p>
               </section>
 
@@ -66,9 +70,9 @@ export default function TermsAndConditions() {
                   3. Prohibited Actions
                 </h2>
                 <p className="text-sm sm:text-md">
-                  The Lessee shall not mortgage, sell, or otherwise encumber the
-                  Vehicle. Any such action shall be considered a breach of this
-                  Agreement and Legal action would be taken.
+                  The Vehicle is the exclusive property of Jain Car Rental. The Lessee is strictly forbidden from selling, mortgaging, sub-leasing, renting, or otherwise encumbering the Vehicle to anyone not listed in the booking details without the express consent of Jain Car Rental.
+                  Any violation of these terms constitutes a breach of this Agreement, which may result in legal action.
+                  In the event of a breach of the terms, Jain Car Rental reserves the right to retrieve the vehicle from any location and return it to its office without prior notice to the person who rented the car.
                 </p>
               </section>
 
@@ -77,10 +81,10 @@ export default function TermsAndConditions() {
                   4. Maintenance and Care
                 </h2>
                 <p className="text-sm sm:text-md">
-                  The Lessee agrees to maintain the Vehicle in good condition
-                  and return it in the same condition as received, normal wear
-                  and tear excepted. The Lessee shall be responsible for any
-                  damage to the Vehicle during the Rental Term.
+                  The Lessee is required to maintain the rented Vehicle in good condition, operate it lawfully, and return it to the Lessor at the end of the Rental Term in the same condition as received,
+                  allowing for normal wear and tear.The Lessee is held fully financially responsible for any damage to the Vehicle, including collision, theft, or vandalism, that occurs during the Rental Term, regardless of fault.
+                  This responsibility covers the full cost of repairs, replacement, towing, storage, and the Lessor's loss of rental income.
+                  If the Vehicle is a total loss, the Lessee is liable for its fair market value
                 </p>
               </section>
 
@@ -99,30 +103,46 @@ export default function TermsAndConditions() {
 
               <section>
                 <h2 className="text-md sm:text-lg font-bold mb-3">
-                  6. Booking Duration
+                  6. Traffic Violation Challan
                 </h2>
                 <p className="text-sm sm:text-md">
-                  No refunds will be issued for vehicles returned before the
-                  reserved date and time. However, hourly and daily rates will
-                  be applied to bookings that are extended beyond the original
-                  return time.
+                  You are responsible for paying any traffic violation fines incurred during your rental period.
+                  If you fail to respond to or deny a notice to pay a challan, legal proceedings may be initiated. In such an event,
+                  Jain Car Rental reserves the right to visit your registered address to recover the outstanding fine, along with any associated legal expenses.
                 </p>
               </section>
 
               <section>
                 <h2 className="text-md sm:text-lg font-bold mb-3">
-                  7. Traffic Violation Challan
+                  7.  Security Deposit
                 </h2>
                 <p className="text-sm sm:text-md">
-                  This Agreement obligates you to pay any traffic violation
-                  fines incurred during your booking period, whenever they are
-                  presented.
+                  Acceptable in terms of cash (5000-10000) and kind (two wheeler) Refundable after return of Car after Inspection. 
+                  - Deductions apply for Damage , Fines, Late Return, Traffic Challan, Cleaning charges and Fuel incompleteness.
                 </p>
               </section>
 
               <section>
                 <h2 className="text-md sm:text-lg font-bold mb-3">
-                  8. Entire Agreement
+                  8. Vehicle Return Policy
+                </h2>
+                <p className="text-sm sm:text-md">
+                  Return Timing and Late Fees:Vehicles must be returned by the agreed-upon time.
+                                Advance notification is mandatory for any expected delay. Unnotified late returns are strictly prohibited.
+                                Late returns will incur hourly charges calculated based on the standard daily rate.
+                                A delay exceeding 4 hours will extend the rental by 12 hours.
+                                A delay over 16 hours will result in a charge for an entire additional rental day.
+                  Operating Hours: Vehicle pickup and return are permitted only between 9:00 AM and 11:00 PM.
+                  Fuel Policy:  The rental price does not include fuel, unless explicitly stated otherwise.
+                                Vehicles must be returned with the same fuel level as at the time of pickup.
+                                Any extra fuel beyond the starting level is non-refundable.
+                  Cleaning Fee:A cleaning fee of up to Rs 500/- may be applied if the vehicle is not returned in a clean condition.
+                  Premium Car Rental Eligibility: The minimum age requirement for renting Premium Cars is 21 years old.
+                </p>
+              </section>
+              <section>
+                <h2 className="text-md sm:text-lg font-bold mb-3">
+                  9. Entire Agreement
                 </h2>
                 <p className="text-sm sm:text-md">
                   This Agreement constitutes the entire understanding between
