@@ -83,7 +83,7 @@ export default function TermsAndConditions() {
                 <p className="text-sm sm:text-md">
                   The Lessee is required to maintain the rented Vehicle in good condition, operate it lawfully, and return it to the Lessor at the end of the Rental Term in the same condition as received,
                   allowing for normal wear and tear.The Lessee is held fully financially responsible for any damage to the Vehicle, including collision, theft, or vandalism, that occurs during the Rental Term, regardless of fault.
-                  This responsibility covers the full cost of repairs, replacement, towing, storage, and the Lessor's loss of rental income.
+                  This responsibility covers the full cost of repairs, replacement, towing, storage, and the Lessor`&apos;`s loss of rental income.
                   If the Vehicle is a total loss, the Lessee is liable for its fair market value
                 </p>
               </section>
