@@ -432,7 +432,14 @@ const PDFDocument = ({ booking }: { booking: Booking }) => {
           <View style={styles.termsSection}>
             <Text style={styles.termsHeader}>1. Rental Term, Rate & Payment Mode</Text>
             <Text style={styles.termsParagraph}>
-              The rental period begins on the date and time specified in the booking. The Vehicle is reserved for these precise dates and times, and any extension is contingent upon availability.Rental charges will be calculated on an hourly or daily basis, according to the agreed-upon rate.A daily limit of 300 KM applies unless "unlimited KM" is explicitly stated. The rental policy states that no refunds will be given for vehicles returned early (before the scheduled end time). If a vehicle is returned late, the customer will be charged according to the applicable hourly and daily extension rates. To rent a vehicle, customers must present the original hard copies of their Aadhaar card and a valid driving license to Jain Car Rental. Jain Car Rental will retain one original ID card for the duration of the booking. We assure the renter that their ID card will be kept safe and will not be used for any other activities.
+              The rental period begins on the date and time specified in the booking. 
+              The Vehicle is reserved for these precise dates and times, and any extension is contingent upon availability. 
+              Rental charges will be calculated on an hourly or daily basis, according to the agreed-upon rate. 
+              A daily limit of 300 KM applies unless `&ldquo;`unlimited KM`&ldquo;` is explicitly stated. 
+              The rental policy states that no refunds will be given for vehicles returned early (before the scheduled end time). 
+              If a vehicle is returned late, the customer will be charged according to the applicable hourly and daily extension rates. 
+              To rent a vehicle, customers must present the original hard copies of their Aadhaar card and a valid driving license to Jain Car Rental. 
+              Jain Car Rental will retain one original ID card for the duration of the booking. We assure the renter that their ID card will be kept safe and will not be used for any other activities.
             </Text>
           </View>
 

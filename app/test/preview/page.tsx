@@ -1,6 +1,6 @@
 'use client'
 import React, { useState } from 'react';
-import {  pdf, PDFViewer } from '@react-pdf/renderer';
+import {  pdf } from '@react-pdf/renderer';
 import * as Dialog from '@radix-ui/react-dialog';
 import { Mail, Share2 } from 'lucide-react';
 import PDFDocument from '@/components/pdf-document';

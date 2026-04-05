@@ -39,7 +39,7 @@ export default function TermsAndConditions() {
                   The Vehicle is reserved for these precise dates and 
                   times, and any extension is contingent upon availability.
                   Rental charges will be calculated on an hourly or daily basis,
-                  according to the agreed-upon rate.A daily limit of 300 KM applies unless "unlimited KM" is explicitly stated..
+                  according to the agreed-upon rate.A daily limit of 300 KM applies unless `&ldquo;`unlimited KM`&ldquo;` is explicitly stated..
                 </p>
                 <p className="text-sm sm:text-md">
                   The rental policy states that no refunds will be given for vehicles returned early (before the scheduled end time).
@@ -151,6 +151,7 @@ export default function TermsAndConditions() {
                   agrees to rent to the Lessee the following vehicle.
                 </p>
               </section>
+              
             </div>
           </div>
         </div>
