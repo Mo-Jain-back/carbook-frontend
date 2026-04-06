@@ -1,4 +1,5 @@
 const nextConfig = {
+  // turbopack: false,
   webpack(config: any) {
     config.module.rules.push({
       test: /\.svg$/,
