@@ -9,17 +9,17 @@ const styles = StyleSheet.create({
     innerBorder: {
       padding:20,
       border: "1pt solid black",
-      height: "100%",
+      // height: "100%",
     },
     outerBorder: {
       padding:1,
       border: "3pt solid black",
-      height: "100%",
+      // height: "100%",
     },
     pageContent: {
       padding:20,
       border: "1pt solid black",
-      height: "100%",
+      // height: "100%",
     },
     section: { 
       marginBottom: 10 
